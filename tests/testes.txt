@@ -1,0 +1,17 @@
+testes q nao rodaram:
+    -gencode-004.tpp (se arrumar o sinal de atribuição funciona)
+
+    -gencode-016.tpp até gencode-024.tpp (nao gerou codigo mas gerou arvore)
+
+    -gencode-025.tpp até gencode-027.tpp (deu erro)
+
+    -gencode-028.tpp (nao gerou codigo mas gerou arvore)
+
+    -gencode-029.tpp (deu erro)
+
+    -gencode-030.tpp e gencode-031.tpp (nao gerou codigo mas gerou arvore)
+
+    -gencode-032.tpp (deu erro)
+
+
+  
